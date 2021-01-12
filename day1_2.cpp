@@ -1,5 +1,5 @@
 #include<iostream>
-#include<malloc>        // std lib to include malloc
+#include<malloc.h>        // std lib to include malloc
 using namespace std;
 int main()
 {
@@ -21,7 +21,7 @@ int main()
   }
 }
 /*
-Time Complexity = O(n*n/2)
+Time Complexity = O(n)
 Space Complexity = O(1)
 By : Akshat Jain
 */
