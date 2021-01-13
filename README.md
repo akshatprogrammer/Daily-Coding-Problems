@@ -16,7 +16,7 @@
        1 1 1 1</br>
 Input : 4</br>
 
-* [Program 2]() : A) Print fibonacci series </br>
+* [Program 2](https://github.com/akshatprogrammer/Daily-Coding-Problems/blob/main/day2_2.cpp) : A) Print fibonacci series </br>
 B) find Armstrong numbr</br>
 C) find the number is palindrome or not
 </br>
