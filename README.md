@@ -9,7 +9,7 @@
 
 ## Day-2 (13-01-2021)
 
-* [Program 1]() : Print a  pattern</br>
+* [Program 1](https://github.com/akshatprogrammer/Daily-Coding-Problems/blob/main/day2_1.cpp) : Print a  pattern</br>
           1</br>
          1 1</br>
         1 1 1</br>
