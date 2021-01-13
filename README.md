@@ -9,7 +9,7 @@
 
 ## Day-2 (13-01-2021)
 
-* [Program 1]() : Print a  pattern
+* [Program 1]() : Print a  pattern</br>
           1</br>
          1 1</br>
         1 1 1</br>
