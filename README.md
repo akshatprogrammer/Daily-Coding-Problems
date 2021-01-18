@@ -21,3 +21,29 @@ B) find Armstrong numbr</br>
 C) find the number is palindrome or not
 </br>
 In same program</br>
+
+## Day-3 (14-01-2021)
+* [Program 1]() : WAP to sort a string.</br>
+	Example:</br>
+	Input : akshat </br>
+	Output : aahkst </br>
+
+* [Program 2]() : WAP to find a string is palindrome or not. </br>
+
+## Day-4 (15-01-2021)
+
+* [Program 1]() : Join two strings.
+
+* [Program 2]() : Count frequency of each letter in a string
+
+## Day-5 (17-01-2021)
+
+* [Program 1]() : Convert Decimal to Binary.
+
+* [Program 2]() : Convert Decimal to HexaDecimal.
+
+## Day-6 (18-01-2021)
+
+* [Program 1]() : Add two binary numbers.
+
+* [Program 2]() : Find out a number is perfect number or not.
